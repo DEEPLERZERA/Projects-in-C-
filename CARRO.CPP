@@ -1,0 +1,14 @@
+#include<iostream.h>
+#include<conio.h>
+void main()  {
+ clrscr();
+cout<<"\ncarro:\n\n";
+cout<<"\n\xDC\xDC\xDB\xDB\xDB\xDB\xDC\xDC";
+cout<<"\n\xDFO\xDF\xDF\xDF\xDFO\xDF";
+cout<<"\ncaminhao\n\n";
+cout<<"\n\xDB\xDB\xDB\xDB\xDB\xDB\xDB\xDB\xDC\xDC";
+cout<<"\n\xDF\xDFOO\xDF\xDF\xDF\xDF\xDFO\xDF";
+	getch();
+	}
+
+
